@@ -3,8 +3,8 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-![alt text](https://github.com/DCCoder90/github-stats/blob/main/generated/overview.svg?raw=true)
-![alt text](https://github.com/DCCoder90/github-stats/blob/main/generated/languages.svg?raw=true)
+![Overview](generated/overview.svg?raw=true)
+![Languages](generated/languages.svg?raw=true)
 
 Generate visualizations of GitHub user and repository statistics with GitHub
 Actions. Visualizations can include data for both private repositories, and for
